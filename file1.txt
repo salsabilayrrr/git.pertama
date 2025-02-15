@@ -1,6 +1,5 @@
 ini baris satu
-ini baris dua
-ini baris tiga
+ini baris dua dan tiga
 save dengan commit
 
 tambah baris lagii
